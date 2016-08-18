@@ -1,0 +1,12 @@
+#pthdr2container.pthdr2container {
+	background: repeating-linear-gradient(
+		45deg,
+		#bce8f1,
+		#bce8f1 10px,
+		#d5f1f6 10px,
+		#d5f1f6 20px)
+}
+
+#pthnavcontainer {
+	background: #d5f1f6 !important;
+}
