@@ -10,6 +10,11 @@ Light: #e4f1da
 Main: #bce8f1
 Light: #d5f1f6
 
+## Purple - Development 3
+
+Main: #cccceb
+Light: ededf8
+
 ## Red - System Test
 
 Main: #ebcccc
@@ -25,8 +30,4 @@ Light: #e6e6e6
 Main: #faebcc
 Light: #fdf6e8
 
-## Purple
-
-Main: #cccceb
-Light: ededf8
 
